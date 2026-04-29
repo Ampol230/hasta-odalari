@@ -1,0 +1,77 @@
+[
+    {
+        "id": "6b231d3b-7b4f-48ad-a97b-9a2f0a26630a",
+        "name": "elif alınak",
+        "age": 32,
+        "gender": "Kadın",
+        "room": 16,
+        "doctor": "ert",
+        "diagnosis": "kırık",
+        "anesthesia": "anestezi",
+        "date": "30.03.2026 00:25",
+        "allergy": true,
+        "allergy_type": "metpamid",
+        "isolation": false,
+        "isolation_reason": "",
+        "fall_risk": true,
+        "notes": [
+            {
+                "time": "30.03.2026 21:20",
+                "text": "ssssssssss",
+                "type": "İlaç"
+            }
+        ]
+    },
+    {
+        "id": "c4807eec-fffc-44b5-90cf-a97a8125dd79",
+        "name": "mehmet sıddık börü",
+        "age": 13,
+        "gender": "Erkek",
+        "room": 1,
+        "doctor": "fsgs",
+        "diagnosis": "hegsd",
+        "anesthesia": "grrrrr",
+        "date": "27.03.2026 00:35",
+        "allergy": false,
+        "fasting": true,
+        "fall_risk": false,
+        "notes": [
+            {
+                "time": "13.04.2026 02:54",
+                "text": "srsdfsfsd",
+                "type": "Muayene"
+            }
+        ]
+    },
+    {
+        "id": "d67da65d-2688-4de6-9c46-747b009de433",
+        "name": "mehmet börüü",
+        "age": 34,
+        "gender": "Erkek",
+        "room": 3,
+        "doctor": "ertuğrul",
+        "diagnosis": "adsdasd",
+        "anesthesia": "fasfasf",
+        "date": "27.03.2026 00:32",
+        "allergy": true,
+        "fasting": false,
+        "fall_risk": false,
+        "notes": []
+    },
+    {
+        "id": "9abde09f-264f-4837-b13e-62c528b4d608",
+        "name": "arda çelik",
+        "age": 31,
+        "gender": "Erkek",
+        "room": 6,
+        "doctor": "murat",
+        "diagnosis": "lanet bir hasta",
+        "anesthesia": "hazıer değil",
+        "date": "28.03.2026 18:22",
+        "allergy": true,
+        "fasting": true,
+        "fall_risk": true,
+        "notes": [],
+        "allergy_type": ""
+    }
+]

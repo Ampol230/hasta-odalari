@@ -1,0 +1,17 @@
+[
+    {
+        "id": "c3552a21-b335-4237-b34d-36c588274f9a",
+        "name": "aqef",
+        "age": "133",
+        "gender": "Erkek",
+        "room": 4,
+        "doctor": "gggggg",
+        "diagnosis": "asdasf",
+        "anesthesia": "gggggggasd",
+        "date": "27.03.2026 00:36",
+        "allergy": false,
+        "fasting": false,
+        "fall_risk": true,
+        "notes": []
+    }
+]

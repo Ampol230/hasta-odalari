@@ -1,0 +1,18 @@
+[
+    {
+        "id": "4ae2bf9d-59da-43bb-a074-02051306536d",
+        "name": "mwlik börü",
+        "age": "25",
+        "gender": "Kadın",
+        "room": 5,
+        "doctor": "nur",
+        "diagnosis": "hallux vagus",
+        "anesthesia": "anestezi",
+        "date": "29.03.2026 16:30",
+        "allergy": true,
+        "allergy_type": "penisilin",
+        "fasting": false,
+        "fall_risk": true,
+        "notes": []
+    }
+]
