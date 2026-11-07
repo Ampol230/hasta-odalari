@@ -243,4 +243,4 @@ Sorular veya öneriler için lütfen iletişime geç.
 
 **Versiyon**: 1.0.0  
 **Son Güncelleme**: 29 Mart 2026  
-**Geliştirici**: Sağlık Bilişimi Ekibi
+**Geliştirici**:melik börü
